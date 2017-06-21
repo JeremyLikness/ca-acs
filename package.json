@@ -1,0 +1,36 @@
+{
+  "name": "ca-acs",
+  "version": "1.0.0",
+  "description": "Sample app for Azure Container Service tutorial",
+  "main": "index.js",
+  "scripts": {
+    "start": "micro",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeremyLikness/ca-acs.git"
+  },
+  "keywords": [
+    "azure",
+    "container",
+    "service",
+    "acs",
+    "kubernetes",
+    "mesos",
+    "dcos",
+    "docker",
+    "docker",
+    "swarm",
+    "containers"
+  ],
+  "author": "Jeremy Likness",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JeremyLikness/ca-acs/issues"
+  },
+  "homepage": "https://github.com/JeremyLikness/ca-acs#readme",
+  "dependencies": {
+    "micro": "^7.3.3"
+  }
+}
